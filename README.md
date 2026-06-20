@@ -19,3 +19,8 @@ This project focuses on the initial inspection, data cleaning, and exploratory a
 * Python
 * Pandas
 * NumPy
+## Personal Reflection & Key Takeaways
+Completing this initial phase of the Waze user churn project highlighted a few critical data principles for me:
+* **The Importance of the Median:** This dataset perfectly demonstrated why data analysts cannot rely blindly on mean averages. With extreme outliers present (like a maximum driving distance exceeding 21,000 km), calculating the median was essential to getting an accurate, undistorted view of a typical user.
+* **Thinking Beyond the Code:** Data science isn't just about writing Python functions; it's about translating numbers into business realities. Successfully connecting a 698 km median driving distance to a concrete "super driver" or commuter persona showed me how technical analysis directly informs corporate strategy.
+* **The PACE Framework:** Walking through a structured problem-solving methodology taught me the value of careful planning and data triaging before rushing into visualizations or predictive modeling.
